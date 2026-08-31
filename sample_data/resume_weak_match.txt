@@ -1,0 +1,13 @@
+John Doe
+Frontend Developer
+
+Summary:
+Frontend developer with 3 years of experience building user interfaces.
+
+Skills: HTML, CSS, JavaScript, React, Vue, Angular
+
+Experience:
+Frontend Developer, PixelWorks (3 years of experience)
+- Built responsive web interfaces using React and Vue.
+- Collaborated with designers on UI/UX improvements.
+- Wrote unit tests for frontend components.

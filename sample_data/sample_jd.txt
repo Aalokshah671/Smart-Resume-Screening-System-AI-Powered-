@@ -1,0 +1,18 @@
+AI/ML Developer (1 Year Experience)
+
+We are looking for an AI/ML Developer to join our team. The ideal candidate
+has hands-on experience with Python, machine learning, and NLP, and is
+comfortable building and shipping REST APIs.
+
+Requirements:
+- Strong proficiency in Python
+- Experience with machine learning and scikit-learn
+- Familiarity with NLP techniques (embeddings, transformers is a plus)
+- Experience building REST APIs, ideally with FastAPI or Flask
+- Comfortable with pandas and numpy for data processing
+- Familiarity with Git and Docker
+- 1+ years of relevant experience
+
+Nice to have:
+- Experience with PyTorch or TensorFlow
+- Familiarity with vector databases (FAISS, Pinecone)

@@ -1,0 +1,16 @@
+Priya Sharma
+AI/ML Developer
+
+Summary:
+AI/ML developer with 2 years of experience building machine learning
+systems and REST APIs in Python.
+
+Skills: Python, scikit-learn, pandas, numpy, FastAPI, Docker, Git,
+NLP, embeddings, PyTorch
+
+Experience:
+Junior ML Engineer, DataWorks Inc. (2 years of experience)
+- Built and deployed a FastAPI service for text classification.
+- Used scikit-learn and pandas for feature engineering.
+- Implemented NLP pipelines using embeddings for semantic search.
+- Containerized services with Docker and managed code with Git.

@@ -137,10 +137,4 @@ resume_screener/
 └── README.md
 ```
 
-## Notes / possible extensions
-
-- Skill list (`app/skills_data.py`) is easy to extend for a specific domain.
-- Swap-in point for embeddings-based similarity is isolated in
-  `compute_text_similarity()` in `app/matcher.py`.
-- No database — this is intentionally stateless/synchronous per the scope
-  of the assignment ("clarity and logic, not perfection").
+Author: Aalok Shah
